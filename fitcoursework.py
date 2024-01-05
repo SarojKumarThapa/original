@@ -8,7 +8,7 @@ Original file is located at
 """
 
 #pip install scapy
-!pip install scapy_http
+%pip install scapy_http
 
 from scapy.all import *
 
